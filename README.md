@@ -1,1 +1,1 @@
-# astra-os
+# astra
